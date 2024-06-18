@@ -108,10 +108,10 @@ Adaptive-User-Interface-Final-Year-Project/
 ```
 **Key Components**
 
-adaptive_ui/: Contains the Django app for the adaptive UI.
-adaptive_ui_project/: Contains the project settings and configurations.
-machine_learning/: Contains the machine learning model and preprocessing scripts.
-static/: Contains static files like CSS, JavaScript, and images.
+* adaptive_ui/: Contains the Django app for the adaptive UI.
+* adaptive_ui_project/: Contains the project settings and configurations.
+* machine_learning/: Contains the machine learning model and preprocessing scripts.
+* static/: Contains static files like CSS, JavaScript, and images.
 
 **Contributing**
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
